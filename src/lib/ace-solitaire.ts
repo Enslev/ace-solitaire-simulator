@@ -1,5 +1,3 @@
-import { stat } from "fs";
-import { parse } from "path";
 import { Card, Deck } from "./deck";
 import { InvalidStateError, MalformedCallError } from './errors'
 import { logger } from "./logger";
