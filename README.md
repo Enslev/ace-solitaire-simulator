@@ -10,7 +10,7 @@ It consists of four parts
 - The simulator
 - Several (eventually..) strategies to be used by the simulator
 
-With the current basic strategy, the chances of winning seems to convergate towards around 0.5%, so no wonder I never seemed to win.
+With the current basic strategy, the chances of winning seems to converge towards around 0.5%, so no wonder I never seemed to win.
 
 ---
 ### How To Run
